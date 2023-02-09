@@ -1,5 +1,3 @@
-
-
 echo Welcome to Employee Wage Computation Problem
 
 isPresent=$((RANDOM%3));
